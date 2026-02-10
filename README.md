@@ -9,7 +9,7 @@ My goal is to build interfaces that are not only functional, but also clear, usa
 
 🔭 I’m working on my **portfolio** and on new projects where I combine my background as a **designer** with my path as a **junior frontend developer**.
 
-🌱 I’m learning and practicing:
+**I’m learning and practicing:**
 - Git & GitHub
 - HTML, CSS and JavaScript
 - Basic database concepts using MySQL
