@@ -7,7 +7,7 @@ My goal is to build interfaces that are not only functional, but also clear, usa
 
 <h3>🌱 Currently</h3>
 
-I’m working on my **portfolio** and on new projects where I combine my background as a **designer** with my path as a **junior frontend developer**.
+I’m working on my **portfolio** and on new projects where I combine my background as a **designer** with my path as a **frontend developer**.
 
 **I’m learning and practicing:**
 - HTML, CSS and JavaScript
