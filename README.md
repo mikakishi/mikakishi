@@ -1,6 +1,6 @@
 ## Hi there 👋 this is Mika Kishimoto!
 
-I’m a **Junior Frontend Developer** with a strong background in **Graphic Design, Art Direction and UX/UI**.
+I’m a **Frontend Developer** with a strong background in **Graphic Design, Art Direction and UX/UI**.
 
 I’m focused on growing as a frontend developer, combining **clean, maintainable code** with a strong **visual and user-centered mindset**.
 My goal is to build interfaces that are not only functional, but also clear, usable and well thought-out.
